@@ -1,0 +1,5 @@
+{
+  "name": "Shopping List",
+  "description": "A highly customizable shopping list application that uses AI to suggest item icons. Features multiple color themes and a light/dark mode toggle for a personalized experience.",
+  "requestFramePermissions": []
+}
